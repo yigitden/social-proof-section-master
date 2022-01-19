@@ -1,3 +1,7 @@
+# Live Demo
+
+Live Demo: https://yigitden.github.io/social-proof-section-master/social-proof-section-master/
+
 # Frontend Mentor - Social proof section
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
